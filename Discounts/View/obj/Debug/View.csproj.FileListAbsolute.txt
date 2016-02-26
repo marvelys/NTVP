@@ -1,0 +1,14 @@
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\bin\Debug\View.exe.config
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\bin\Debug\View.exe
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\bin\Debug\View.pdb
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\bin\Debug\Discounts.exe
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\bin\Debug\Discounts.pdb
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.FormDiscounts.resources
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.FormFind.resources
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.FormPercent.resources
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.Properties.Resources.resources
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.csproj.GenerateResource.Cache
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.exe
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.pdb
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\View\obj\Debug\View.FormCertificate.resources
