@@ -1,0 +1,8 @@
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\bin\Debug\Discounts.exe.config
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\bin\Debug\Discounts.exe
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\bin\Debug\Discounts.pdb
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\obj\Debug\Discounts.csprojResolveAssemblyReference.cache
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\obj\Debug\Discounts.Properties.Resources.resources
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\obj\Debug\Discounts.csproj.GenerateResource.Cache
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\obj\Debug\Discounts.exe
+E:\учеба\7 семак\НТВП\Лабы\Discounts\Discounts\Discounts\obj\Debug\Discounts.pdb
